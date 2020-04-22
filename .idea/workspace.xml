@@ -13,12 +13,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sir Nocturne &lt;56847571+sirnocturne@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1aK7bZf2pFyv7OtcbSocd8iZkDN" />
   <component name="ProjectViewState">
@@ -85,33 +91,41 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="321" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480170865" />
+    <state x="521" y="293" width="921" height="813" key="CommitChangelistDialog2" timestamp="1586480272873">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="521" y="293" width="921" height="813" key="CommitChangelistDialog2/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480272873" />
     <state x="647" y="454" key="FileChooserDialogImpl" timestamp="1586480083715">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="647" y="454" key="FileChooserDialogImpl/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480083715" />
-    <state width="1696" height="398" key="GridCell.Tab.0.bottom" timestamp="1586480201848">
+    <state width="1696" height="398" key="GridCell.Tab.0.bottom" timestamp="1587584726223">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="398" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480201848" />
-    <state width="1696" height="398" key="GridCell.Tab.0.center" timestamp="1586480201848">
+    <state width="1696" height="398" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1587584726223" />
+    <state width="1696" height="398" key="GridCell.Tab.0.center" timestamp="1587584726222">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="398" key="GridCell.Tab.0.center/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480201848" />
-    <state width="1696" height="398" key="GridCell.Tab.0.left" timestamp="1586480201847">
+    <state width="1696" height="398" key="GridCell.Tab.0.center/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1587584726222" />
+    <state width="1696" height="398" key="GridCell.Tab.0.left" timestamp="1587584726222">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="398" key="GridCell.Tab.0.left/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480201847" />
-    <state width="1696" height="398" key="GridCell.Tab.0.right" timestamp="1586480201848">
+    <state width="1696" height="398" key="GridCell.Tab.0.left/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1587584726222" />
+    <state width="1696" height="398" key="GridCell.Tab.0.right" timestamp="1587584726222">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="398" key="GridCell.Tab.0.right/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480201848" />
+    <state width="1696" height="398" key="GridCell.Tab.0.right/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1587584726222" />
     <state x="368" y="341" key="SettingsEditor" timestamp="1586480161100">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="368" y="341" key="SettingsEditor/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480161100" />
-    <state x="563" y="522" key="com.intellij.ide.util.TipDialog" timestamp="1586479001068">
+    <state x="459" y="420" key="Vcs.Push.Dialog.v2" timestamp="1586480290085">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="563" y="522" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586479001068" />
+    <state x="459" y="420" key="Vcs.Push.Dialog.v2/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1586480290085" />
+    <state x="563" y="522" key="com.intellij.ide.util.TipDialog" timestamp="1587584583221">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="563" y="522" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/3440.373.1536.824@0.0.3440.1400" timestamp="1587584583221" />
   </component>
 </project>

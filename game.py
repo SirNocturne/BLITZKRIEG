@@ -32,7 +32,7 @@ class Game(LifeCycle):
         self.last_collision = time.time()
         self.total_ball_hits = 0
 
-        self.bg_color = COLOR_BLACK
+        self.bg_color = COLOR_WHITE
         self.initial_setup()
 
     def initial_setup(self):
@@ -81,7 +81,7 @@ class Game(LifeCycle):
 
         self.total_ball_hits = 0
 
-        self.bg_color = COLOR_BLACK
+        self.bg_color = COLOR_WHITE
 
     def player_collision_event(self, player):
         player = int(player)

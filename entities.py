@@ -120,7 +120,7 @@ class Player():
         else:
             horiz_pos = self.surface_width / 2
 
-        scoreBlit = self.__scoring_font.render(str(self.__score), 1, (255, 255, 255))
+        scoreBlit = self.__scoring_font.render(str(self.__score), 1, (0, 0, 0))
         surface.blit(scoreBlit, (horiz_pos, y_margin))
 
     def score(self):
@@ -216,11 +216,11 @@ class Ball():
         self.__move_rate = self.times * 6
         self.__x = self.surface_width / 2
         self.__y = self.surface_height / 2
-        self.__radius = 7
+        self.__radius = 14
         self.__x_flip = -1
         self.__y_flip = 1
         self.__ball_charge = ""
-        self.__color = COLOR_WHITE
+        self.__color = COLOR_RED
 
     def get_rect(self):
         return self.__rect
