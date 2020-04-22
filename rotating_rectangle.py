@@ -69,5 +69,5 @@ class RotatingRect():
     def get_rect(self):
         return self.__rect
 
-    def draw(self, surface, color=(255, 255, 255)):
+    def draw(self, surface, color=(0, 0, 0)):
         self.__rect = pygame.draw.polygon(surface, color, self.__verticies)
